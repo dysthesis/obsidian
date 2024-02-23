@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "913c4a02ba517ec7",
+        "id": "b946429fdfee597f",
         "type": "tabs",
         "children": [
           {
-            "id": "4412849aefdcea54",
+            "id": "7c2815f1fcf2fe7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Topic note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e790b3ab43ed6ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Lecture note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6e82bfb14369d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +145,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "923ff520d05de530",
@@ -189,12 +165,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/COMP3231/Assignments/COMP3231 Assignment .md"
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,18 +185,40 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c0f9d3d0cdd2a63e",
+  "active": "7c2815f1fcf2fe7b",
   "lastOpenFiles": [
-    "COMP6991 Assignment .md",
-    "Courses/COMP3231/Assignments/COMP3231 Assignment .md",
-    "COMP3121 Assignment .md",
-    "README.md",
+    "Resources/Textbooks/COMP3231/Modern Operating Systems.pdf",
+    "Resources/Textbooks/COMP3231",
+    "Resources/Textbooks",
+    "Counting semaphore.md",
     "Resources/Documents/Textbooks/COMP3231/Modern Operating Systems.pdf",
-    "Templates/Lecture note.md",
+    "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
+    "Lock.md",
+    "Courses/COMP6991/COMP6991.md",
+    "README.md",
+    "Courses/COMP3231/COMP3231.md",
+    "Courses/COMP3121/COMP3121.md",
+    "Courses/COMP6991/Assignments/Test.md",
     "Templates/Assignment note.md",
+    "Mutual exclusion.md",
+    "Semaphores.md",
+    "Courses/COMP6991/Lectures/Test.md",
+    "Courses/COMP3231/Lectures/Test.md",
+    "Courses/COMP3231/Assignments/Test.md",
+    "Courses/COMP3121/Lectures/Test.md",
+    "Courses/COMP3121/Assignments/Test.md",
+    "Critical region.md",
+    "Binary semaphore.md",
+    "Process.md",
+    "Courses/COMP3231/Assignments/COMP3231 Assignment .md",
+    "COMP6991 Assignment .md",
+    "COMP3121 Assignment .md",
+    "Templates/Lecture note.md",
     "Resources/Documents/Textbooks/COMP3231",
     "Resources/Documents/Textbooks",
     "Courses/COMP6991/Lectures",
@@ -232,16 +229,6 @@
     "Courses/COMP3121/Lectures",
     "Courses/COMP3121/Assignments",
     "Courses/COMP3231/Lectures/COMP3231 Lecture .md",
-    "Courses/COMP6991",
-    "Courses/COMP3121/Untitled.md",
-    "Courses/COMP3121",
-    "Templates/Topic note.md",
-    "COMP3231 Lecture .md",
-    "COMP3231 Lecture 1.md",
-    "COMP3231 Lecture 2.md",
-    "Resources/Untitled.md",
-    "Pasted image 20240223121836.png",
-    "Setup.md",
-    "Welcome.md"
+    "Pasted image 20240223121836.png"
   ]
 }

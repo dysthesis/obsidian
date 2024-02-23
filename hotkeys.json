@@ -31,20 +31,43 @@
       "key": "1"
     }
   ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "quickadd:choice:60c915cf-aac4-4456-9f15-2ac3dfb1e8c3": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
   "quickadd:choice:c829d337-1fbe-4df2-9482-b441aafe5eb9": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "C"
+      "key": "L"
     }
   ],
   "quickadd:choice:1ee50bcd-a7f0-4d16-a424-39d488ed5a3c": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "A"
     }
-  ]
+  ],
+  "easy-typing-obsidian:easy-typing-format-selection": []
 }

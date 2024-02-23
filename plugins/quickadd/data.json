@@ -195,6 +195,34 @@
         }
       ],
       "collapsed": false
+    },
+    {
+      "id": "60c915cf-aac4-4456-9f15-2ac3dfb1e8c3",
+      "name": "New topic",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Topic note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],

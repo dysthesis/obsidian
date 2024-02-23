@@ -7,7 +7,6 @@
   "obsidian-icon-folder",
   "tag-wrangler",
   "omnisearch",
-  "obsidian-pandoc",
   "note-refactor-obsidian",
   "obsidian-hover-editor",
   "url-into-selection",
@@ -22,5 +21,12 @@
   "dataview",
   "obsidian42-strange-new-worlds",
   "templater-obsidian",
-  "obsidian-annotator"
+  "folder-note-plugin",
+  "obsidian-excalidraw-plugin",
+  "execute-code",
+  "oz-image-plugin",
+  "quick-latex",
+  "obsidian-contextual-typography",
+  "obsidian-annotator",
+  "obsidian-book-search-plugin"
 ]

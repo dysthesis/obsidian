@@ -27,7 +27,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Resources/Documents": "FarFile",
   "Resources/Images": "FarImage",
   "Resources": "FasBoxArchive",
   "Templates": "FarCopy",
@@ -40,6 +39,5 @@
   "Courses/COMP3121/Assignments": "FasPencil",
   "Courses/COMP3121/Lectures": "FasDatabase",
   "Courses/COMP6991/Assignments": "FasPencil",
-  "Courses/COMP6991/Lectures": "FasDatabase",
-  "Resources/Documents/Textbooks": "FasBook"
+  "Courses/COMP6991/Lectures": "FasDatabase"
 }
