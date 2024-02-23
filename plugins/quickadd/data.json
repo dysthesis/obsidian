@@ -1,9 +1,105 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "c829d337-1fbe-4df2-9482-b441aafe5eb9",
+      "name": "Lecture note",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "30126710-594b-4ad9-a272-6b8eeecf4ddf",
+          "name": "COMP3231",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Lecture note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP3231 Lecture "
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Courses/COMP3231/Lectures"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "b1936fea-98a7-46a0-8d24-69e0543f12f8",
+          "name": "COMP3121",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Lecture note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP3121 Lecture "
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "f83fd55c-96e1-49f2-8698-ba16c4513229",
+          "name": "COMP6991",
+          "type": "Template",
+          "command": false,
+          "templatePath": "",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP6991 Lecture "
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ],
+      "collapsed": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "1.7.0",
   "disableOnlineFeatures": true,
