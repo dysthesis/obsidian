@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasBook",
+      "FarCircleDot",
+      "FasCalculator",
+      "FasDatabase",
+      "FasComputer"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,5 +26,20 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "Resources/Documents": "FarFile",
+  "Resources/Images": "FarImage",
+  "Resources": "FasBoxArchive",
+  "Templates": "FarCopy",
+  "Courses": "FasSchool",
+  "Courses/COMP3231/Assignments": "FasPencil",
+  "Courses/COMP3231": "FarCircleDot",
+  "Courses/COMP3231/Lectures": "FasDatabase",
+  "Courses/COMP3121": "FarCircleDot",
+  "Courses/COMP6991": "FarCircleDot",
+  "Courses/COMP3121/Assignments": "FasPencil",
+  "Courses/COMP3121/Lectures": "FasDatabase",
+  "Courses/COMP6991/Assignments": "FasPencil",
+  "Courses/COMP6991/Lectures": "FasDatabase",
+  "Resources/Documents/Textbooks": "FasBook"
 }
