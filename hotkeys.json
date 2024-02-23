@@ -14,5 +14,29 @@
       ],
       "key": "/"
     }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "quickadd:choice:c829d337-1fbe-4df2-9482-b441aafe5eb9": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
