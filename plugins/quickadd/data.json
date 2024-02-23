@@ -47,8 +47,10 @@
             "format": "COMP3121 Lecture "
           },
           "folder": {
-            "enabled": false,
-            "folders": [],
+            "enabled": true,
+            "folders": [
+              "Courses/COMP3121/Lectures"
+            ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
             "chooseFromSubfolders": false
@@ -87,10 +89,109 @@
             "direction": "vertical",
             "focus": true
           },
-          "openFile": false,
+          "openFile": true,
           "openFileInMode": "default",
           "fileExistsMode": "Increment the file name",
-          "setFileExistsBehavior": false
+          "setFileExistsBehavior": true
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "1ee50bcd-a7f0-4d16-a424-39d488ed5a3c",
+      "name": "Assignment",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "832f1e85-a5ed-4e53-893f-b82c24b99d93",
+          "name": "COMP3121",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Assignment note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP3121 Assignment "
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Courses/COMP3121/Assignments"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "1bb05603-3bfe-48ba-b4b1-9dcdcc5f7038",
+          "name": "COMP6991",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Assignment note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP6991 Assignment "
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Courses/COMP6991/Assignments"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "d3931fb3-a672-40f0-9172-27164cc4c448",
+          "name": "COMP3231",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/Assignment note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "COMP3231 Assignment "
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Courses/COMP3231/Assignments"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
         }
       ],
       "collapsed": false

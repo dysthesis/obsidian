@@ -10,7 +10,7 @@
   "editor:open-search": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "/"
     }
@@ -37,6 +37,14 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "quickadd:choice:1ee50bcd-a7f0-4d16-a424-39d488ed5a3c": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
     }
   ]
 }

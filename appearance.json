@@ -2,7 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "SF Pro Display",
   "textFontFamily": "SF Pro Display",
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "extended-colorschemes"

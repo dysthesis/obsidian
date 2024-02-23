@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Courses/COMP3231/Assignments/COMP3231 Assignment .md"
               }
             }
           }
@@ -200,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +215,17 @@
   },
   "active": "c0f9d3d0cdd2a63e",
   "lastOpenFiles": [
+    "COMP6991 Assignment .md",
+    "Courses/COMP3231/Assignments/COMP3231 Assignment .md",
+    "COMP3121 Assignment .md",
+    "README.md",
+    "Resources/Documents/Textbooks/COMP3231/Modern Operating Systems.pdf",
+    "Templates/Lecture note.md",
+    "Templates/Assignment note.md",
     "Resources/Documents/Textbooks/COMP3231",
     "Resources/Documents/Textbooks",
     "Courses/COMP6991/Lectures",
     "Courses/COMP6991/Untitled.canvas",
-    "README.md",
     "Courses/COMP6991/Assignments",
     "Courses/COMP6991/Untitled/Untitled.md",
     "Courses/COMP6991/Untitled 1",
@@ -228,16 +233,12 @@
     "Courses/COMP3121/Assignments",
     "Courses/COMP3231/Lectures/COMP3231 Lecture .md",
     "Courses/COMP6991",
-    "Templates/Assignment.md",
     "Courses/COMP3121/Untitled.md",
     "Courses/COMP3121",
-    "Templates/Lecture note.md",
     "Templates/Topic note.md",
     "COMP3231 Lecture .md",
     "COMP3231 Lecture 1.md",
     "COMP3231 Lecture 2.md",
-    "Resources/Documents",
-    "Resources/Images",
     "Resources/Untitled.md",
     "Pasted image 20240223121836.png",
     "Setup.md",
