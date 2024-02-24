@@ -11,15 +11,70 @@
             "id": "7c2815f1fcf2fe7b",
             "type": "leaf",
             "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md"
+              }
+            }
+          },
+          {
+            "id": "62a6d272841d587b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md"
+              }
+            }
+          },
+          {
+            "id": "30ab8ee3983aebc6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d71e1b84c6cfef6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md"
+              }
+            }
+          },
+          {
+            "id": "dc370784cb57047e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "885c7451e028882b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semaphores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f17f4bcf8dd50e8d",
@@ -152,14 +208,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "885c7451e028882b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "4d1c790e4705619c",
             "type": "leaf",
             "state": {
@@ -190,31 +238,36 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7c2815f1fcf2fe7b",
+  "active": "2d71e1b84c6cfef6",
   "lastOpenFiles": [
+    "Process.md",
+    "Semaphores.md",
+    "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
+    "README.md",
+    "Concurrency.md",
+    "Semaphores.md~",
+    "Binary semaphore.md",
+    "Resources/Slides/COMP3231",
+    "Resources/Slides",
+    "Atomic actions alleviates concurrency issues.md",
     "Resources/Textbooks/COMP3231/Modern Operating Systems.pdf",
     "Resources/Textbooks/COMP3231",
     "Resources/Textbooks",
     "Counting semaphore.md",
     "Resources/Documents/Textbooks/COMP3231/Modern Operating Systems.pdf",
-    "Modern Operating Systems - Andrew S Tanenbaum Herbert Bos.md",
     "Lock.md",
     "Courses/COMP6991/COMP6991.md",
-    "README.md",
     "Courses/COMP3231/COMP3231.md",
     "Courses/COMP3121/COMP3121.md",
     "Courses/COMP6991/Assignments/Test.md",
     "Templates/Assignment note.md",
     "Mutual exclusion.md",
-    "Semaphores.md",
     "Courses/COMP6991/Lectures/Test.md",
     "Courses/COMP3231/Lectures/Test.md",
     "Courses/COMP3231/Assignments/Test.md",
     "Courses/COMP3121/Lectures/Test.md",
     "Courses/COMP3121/Assignments/Test.md",
     "Critical region.md",
-    "Binary semaphore.md",
-    "Process.md",
     "Courses/COMP3231/Assignments/COMP3231 Assignment .md",
     "COMP6991 Assignment .md",
     "COMP3121 Assignment .md",
@@ -223,12 +276,6 @@
     "Resources/Documents/Textbooks",
     "Courses/COMP6991/Lectures",
     "Courses/COMP6991/Untitled.canvas",
-    "Courses/COMP6991/Assignments",
-    "Courses/COMP6991/Untitled/Untitled.md",
-    "Courses/COMP6991/Untitled 1",
-    "Courses/COMP3121/Lectures",
-    "Courses/COMP3121/Assignments",
-    "Courses/COMP3231/Lectures/COMP3231 Lecture .md",
     "Pasted image 20240223121836.png"
   ]
 }
